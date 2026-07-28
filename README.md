@@ -33,6 +33,8 @@ To build an interactive Tableau dashboard that transforms raw transactional data
   <em>Interactive dashboard showing U.S. sales distribution, category breakdowns, and seasonal trends.</em>
 </div>
 
+* [Live Dashboard preview](https://public.tableau.com/app/profile/hemanth.sai.kumar.pentakota/viz/Americansalesdashboard/Dashboard1)
+
 ---
 
 ## 🔍 Key Insights & Features
