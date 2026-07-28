@@ -49,7 +49,7 @@ To build an interactive Tableau dashboard that transforms raw transactional data
 
 ## 🚀 How to Use
 
-1. **Clone the Repository:**
+* **Clone the Repository:**
    ```bash
    git clone https://github.com/0iamhsk0/u.s-superstore-sales-performance-dashboard.git
    ```
