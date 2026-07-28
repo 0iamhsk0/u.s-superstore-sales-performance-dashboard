@@ -28,10 +28,11 @@ To build an interactive Tableau dashboard that transforms raw transactional data
 ## 🖼️ Dashboard Preview
 
 <div align="center">
-  <img src="Dashboard_Pic.png" alt="Superstore Sales Dashboard Preview" width="100%">
+  <img src="Dashboard%20Pic.png" alt="Superstore Sales Dashboard Preview" width="100%">
   <br>
   <em>Interactive dashboard showing U.S. sales distribution, category breakdowns, and seasonal trends.</em>
 </div>
+
 
 * [Live Dashboard preview](https://public.tableau.com/app/profile/hemanth.sai.kumar.pentakota/viz/Americansalesdashboard/Dashboard1)
 
@@ -50,4 +51,5 @@ To build an interactive Tableau dashboard that transforms raw transactional data
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/0iamhsk0/YOUR-NEW-REPO-NAME.git
+   git clone https://github.com/0iamhsk0/u.s-superstore-sales-performance-dashboard.git
+   ```
